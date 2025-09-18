@@ -1,15 +1,3 @@
-
-
-
-
-
-Fit Page
-
-
-
-
-
-
 #include <iostream>
 #include <string>
 #include <cctype>
@@ -68,3 +56,4 @@ cout << "Password is invalid.\n It failed the following criteria: \n";
 print_invalid(pass);
 }
 return 0;
+
